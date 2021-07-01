@@ -2,6 +2,9 @@
 
 Language: Python
 
+## About
+This is a work in progress. Although I was unable to complete everything during the Bright Network internship experience, I will be returning and finishing what I can. 
+
 ## Requirements
 - Python 3.7 or higher
 - Pytest (on command prompt/Python, pip install pytest; or Anaconda, conda install pytest)
